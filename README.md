@@ -19,3 +19,15 @@
 
   - 实时监控运行状态（容器是否启动成功、任务是否完成）
   - 如果任务异常/超时/失败，发出通知或反馈，让 Agent 1 重试或改进
+
+## 运行
+
+```bash
+git clone https://github.com/Zephyruston/Agent-Cat-Agent.git
+cd Agent-Cat-Agent
+go mod tidy
+export OPENAI_API_KEY=Your-key
+export OPENAI_BASE_URL=Your-url
+export OPENAI_MODEL=Your-model
+go run cmd/main.go
+```

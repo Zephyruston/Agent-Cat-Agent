@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "moby Docs": {
+      "url": "https://gitmcp.io/moby/moby"
+    },
+    "openai-go Docs": {
+      "url": "https://gitmcp.io/openai/openai-go"
+    }
+  }
+}
