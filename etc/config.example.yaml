@@ -1,0 +1,3 @@
+api_key: "sk-xxxx"
+base_url: "兼容openai的url"
+model: "deepseek-v3"

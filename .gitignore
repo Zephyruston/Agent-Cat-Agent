@@ -19,5 +19,5 @@
 .env.*
 
 /tmp
-/agentcat/cmd/
-example.Dockerfile
+/memory-bank
+aca
